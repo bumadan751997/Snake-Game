@@ -1,0 +1,25 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin:0;
+    height:100vh;
+}
+.game-box {
+    display: grid;
+    grid-template-columns: repeat(10, 1fr);
+    grid-template-rows: repeat(10, 1fr);
+    background-color:burlywood;
+    border: 2px solid greenyellow;
+    height: 50px;
+    width: 50px;
+    }
+    .board{
+        display: flex;
+        flex-direction: column;
+    }
+.Snake{
+    background-color: brown;
+}
+.Food{
+    background-color:green;
+}
