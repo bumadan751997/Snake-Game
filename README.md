@@ -13,18 +13,13 @@ Each time the snake eat an apple, the snake will grow up. using the keyboard's b
 ***
 
 ### ***Technologies Used***
-* Keyboard Buttons
-* Java script
-  * HTML
-  * CSS
+* Keyboard Buttons 
+* Java script ["script.js"]
+  * HTML ["index.html"] ["index2.html"]
+  * CSS ["script.css"]
 * 
 ***
 
-### ***Getting Started***
-
-##### Sign up and sign in as a new user and then begin viewing the different sections of the website.
-##### A Trello board was used to keep track of development progress and can be viewed [here](URL).
-##### The project was deployed and can be viewed [here](URL).
 ***
 
 ### ***Screenshots***
