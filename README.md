@@ -28,29 +28,10 @@ Each time the snake eat an apple, the snake will grow up. using the keyboard's b
 ***
 
 ### ***Screenshots***
-
-##### image header 1
-![]()
-
-##### image header 2
-![]()
-##### image header 3
-![]()
-***
-
-### ***Future Updates***
-
-- [ ] 
-- [ ] 
-- [x] 
-- [x] ~~Strikethrough~~ Items Also
-***
+IMG: [C:\Users\salma\Desktop]
 
 ### ***Credits***
 
-##### Funny Images: [Sanke-Game]()
+#####: [Sanke-Game](heartbreaking-soda.surge.sh)
 
-##### Markdown Guide: [ia.net](https://ia.net/writer/support/general/markdown-guide)
-
-##### Markdown Cheatsheet: [GitHub](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)
-***
+##### youtube Guide:(https://youtu.be/kz9aaNpWog)
